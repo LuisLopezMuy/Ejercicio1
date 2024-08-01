@@ -8,7 +8,7 @@ Problema 2:
     Pregunta 1:
         4
     Pregunta 2:
-        4
+        3
 
 Problema 3:
         Los elementos del array son: [100, 40, 60, 10]
