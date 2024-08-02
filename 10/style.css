@@ -1,0 +1,16 @@
+#botones{
+    text-align: center;
+}
+
+button{
+    background-color: cornflowerblue;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+body{
+    background-color: lightgrey;
+}
