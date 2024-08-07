@@ -111,7 +111,7 @@ function dado() {
     }
 
     if (posicion == 64) {
-        instrucciones.innerHTML = "El dado ha caido en " + tiro + ".<br><br>Has avanzado hasta la casilla 64.<br><br><br><br><br><br><br>----------- ¡Felicidades! Has ganado :D -----------"
+        instrucciones.innerHTML = "El dado ha caido en " + tiro + ".<br><br>Has avanzado hasta la casilla 64.<br><br><br><br><br><br><br>-------- ¡Felicidades! Has ganado :D --------"
     } else {
         if (minas[posicionFila][posicionColumna] == "#") {
             posicionFila++
